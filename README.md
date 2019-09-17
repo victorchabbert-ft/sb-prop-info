@@ -1,3 +1,8 @@
+# Storybook with auto prop documentation
+
+Follow the commits to setup react-docgen-typescript-loader for CRA v2.
+
+-----
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
