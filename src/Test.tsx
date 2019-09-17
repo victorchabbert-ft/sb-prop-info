@@ -1,6 +1,6 @@
 import React from "react"
 
-export interface TestProps {
+interface TestProps {
   /**
    * React children
    */
